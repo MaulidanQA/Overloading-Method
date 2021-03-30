@@ -1,0 +1,11 @@
+F:\seesharp\LatihanOverloading\obj\Debug\netcoreapp2.2\LatihanOverloading.csprojAssemblyReference.cache
+F:\seesharp\LatihanOverloading\obj\Debug\netcoreapp2.2\LatihanOverloading.csproj.CoreCompileInputs.cache
+F:\seesharp\LatihanOverloading\obj\Debug\netcoreapp2.2\LatihanOverloading.AssemblyInfoInputs.cache
+F:\seesharp\LatihanOverloading\obj\Debug\netcoreapp2.2\LatihanOverloading.AssemblyInfo.cs
+F:\seesharp\LatihanOverloading\bin\Debug\netcoreapp2.2\LatihanOverloading.deps.json
+F:\seesharp\LatihanOverloading\bin\Debug\netcoreapp2.2\LatihanOverloading.runtimeconfig.json
+F:\seesharp\LatihanOverloading\bin\Debug\netcoreapp2.2\LatihanOverloading.runtimeconfig.dev.json
+F:\seesharp\LatihanOverloading\bin\Debug\netcoreapp2.2\LatihanOverloading.dll
+F:\seesharp\LatihanOverloading\bin\Debug\netcoreapp2.2\LatihanOverloading.pdb
+F:\seesharp\LatihanOverloading\obj\Debug\netcoreapp2.2\LatihanOverloading.dll
+F:\seesharp\LatihanOverloading\obj\Debug\netcoreapp2.2\LatihanOverloading.pdb
